@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CPPChessEngine.dir/main.cpp.obj"
-  "CPPChessEngine.exe"
-  "CPPChessEngine.exe.manifest"
+  "CMakeFiles/CPPChessEngine.dir/main.cpp.o"
+  "CPPChessEngine"
   "CPPChessEngine.pdb"
-  "libCPPChessEngine.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

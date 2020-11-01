@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\CPPChessEngine.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\CPPChessEngine.dir/objects.a @CMakeFiles\CPPChessEngine.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\CPPChessEngine.dir/objects.a -Wl,--no-whole-archive  -o CPPChessEngine.exe -Wl,--out-implib,libCPPChessEngine.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CPPChessEngine.dir\linklibs.rsp
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/CPPChessEngine.dir/main.cpp.o  -o CPPChessEngine 
