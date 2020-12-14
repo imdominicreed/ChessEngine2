@@ -3,4 +3,4 @@ project(CPPChessEngine)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(CPPChessEngine main.cpp)
+add_executable(CPPChessEngine main.cpp cmake-build-debug/test.cpp cmake-build-debug/test.h)
